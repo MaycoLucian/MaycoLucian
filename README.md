@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaycoLucian
 - 👀 I’m interested in K8s, IAC and Containers and CI/CD
-- 🔭 Working as a DevOps Engineer at NEXT
+- 🔭 Working as a DevOps Engineer
 - 🌱 Learning more about Cloud Architecture, IaC and Containers
 
 <!---
